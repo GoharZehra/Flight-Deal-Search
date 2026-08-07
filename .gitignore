@@ -1,0 +1,10 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Local database caches
+*.sqlite
+*.sqlite3
+*.db
